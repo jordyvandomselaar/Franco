@@ -5,6 +5,8 @@ import (
 	"github.com/jordyvandomselaar/franco/src/app/controllers"
 )
 
+// Registers the routes of this application. You can add more functions/files with
+// more routes. Just make sure to call the other funcs in here.
 func InitRoutes(r *mux.Router) {
 	hc := controllers.Home{}
 

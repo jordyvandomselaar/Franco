@@ -4,6 +4,7 @@ import (
 	"net/http"
 )
 
+// An example controller that contains the base controller for the Render() helper.
 type Home struct {
 	Base
 }
