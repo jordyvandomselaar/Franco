@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/jordyvandomselaar/cms/app/routes"
-	"github.com/jordyvandomselaar/cms/server"
+	"github.com/jordyvandomselaar/franco/src/app/routes"
+	"github.com/jordyvandomselaar/franco/src/server"
 )
 
 func main() {
